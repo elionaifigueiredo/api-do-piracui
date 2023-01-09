@@ -11,12 +11,5 @@
     "valor":50,
     "imagem":"TODO"
   },
-  
-   
-  "prato02": {
-    "nome":"Feijoada",
-    "valor":35,
-    "imagem":"TODO"
-  }
  }
 ]
