@@ -1,25 +1,22 @@
 [
   {
-    "nome": "Piracui",
+    "descricao": "Piracui",
     "local":{
-    "nome":"Restaurante1",
+      "nome": "Restaurante1",
+      "imagem": "TODO"
+  },
+  
+  "prato1": {
+    "nome":"Peixada",
+    "valor":50,
     "imagem":"TODO"
   },
   
-  "prato1":{
-  "nome":"Peixada",
-  "valor":50,
-  "imagem":"TODO"
-  },
-  
    
-  "prato2":{
-  "nome":"Feijoada",
-  "valor":35,
-  "imagem":"TODO"
+  "prato2": {
+    "nome":"Feijoada",
+    "valor":35,
+    "imagem":"TODO"
   }
-
-
-
-
+ }
 ]
