@@ -6,14 +6,14 @@
       "imagem": "TODO"
   },
   
-  "prato1": {
+  "prato01": {
     "nome":"Peixada",
     "valor":50,
     "imagem":"TODO"
   },
   
    
-  "prato2": {
+  "prato02": {
     "nome":"Feijoada",
     "valor":35,
     "imagem":"TODO"
